@@ -1,4 +1,4 @@
-const BASE_URL = "http://api.weatherapi.com/v1/";
+const BASE_URL = "https://api.weatherapi.com/v1/";
 const SEARCH = "search.json?key=";
 const CURRENT = "current.json?key=";
 const API_KEY = "8126843678b242fdb4b05505231406";
