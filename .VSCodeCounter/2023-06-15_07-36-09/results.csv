@@ -1,0 +1,12 @@
+"filename", "language", "JavaScript", "CSS", "JSON", "comment", "blank", "total"
+"c:\Users\virla\Desktop\repos\weather-app\src\country-capitals.json", "JSON", 0, 0, 337, 0, 1, 338
+"c:\Users\virla\Desktop\repos\weather-app\src\imageHandle\imageHandle.js", "JavaScript", 64, 0, 0, 1, 12, 77
+"c:\Users\virla\Desktop\repos\weather-app\src\imageHandle\urbanAreas.json", "JSON", 0, 0, 268, 0, 1, 269
+"c:\Users\virla\Desktop\repos\weather-app\src\index.js", "JavaScript", 11, 0, 0, 0, 3, 14
+"c:\Users\virla\Desktop\repos\weather-app\src\reset.css", "CSS", 0, 42, 0, 5, 1, 48
+"c:\Users\virla\Desktop\repos\weather-app\src\searchBar\city-countries.json", "JSON", 0, 0, 105269, 0, 1, 105270
+"c:\Users\virla\Desktop\repos\weather-app\src\searchBar\processInput.js", "JavaScript", 70, 0, 0, 0, 9, 79
+"c:\Users\virla\Desktop\repos\weather-app\src\searchBar\searchBar.js", "JavaScript", 52, 0, 0, 0, 9, 61
+"c:\Users\virla\Desktop\repos\weather-app\src\styles.css", "CSS", 0, 118, 0, 0, 19, 137
+"c:\Users\virla\Desktop\repos\weather-app\src\weatherHandle\weatherHandle.js", "JavaScript", 102, 0, 0, 0, 10, 112
+"Total", "-", 299, 160, 105874, 6, 66, 106405
